@@ -1,0 +1,31 @@
+_repo: Houlihan-s-Equation_29168
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheldon, Walter J.
+    aliases:
+    - Sheldon, Walter James
+    - Sheldon, Walt
+    birthdate: 1917
+    deathdate: 1996
+    gutenberg_agent_id: '33576'
+    url: http://www.gutenberg.org/2009/agents/33576
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: Houlihan's Equation
+url: http://www.gutenberg.org/ebooks/29168
